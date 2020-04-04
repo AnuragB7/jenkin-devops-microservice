@@ -23,7 +23,7 @@ pipeline {
 
 	post {
 
-		alwyas{
+		always{
 
 			echo "I run always"
 		}
